@@ -33,7 +33,7 @@ class DosenView
     $sub_judul .= "<a class='navbar-brand' href='dosen.php'>Dosen</a>";
     
     $new = null;
-    $new .= "<a type='button' class='btn btn-primary nav-link active' href='prodi?create_dosen'>Add New dosen</a>";
+    $new .= "<a type='button' class='btn btn-primary nav-link active' href='dosen.php?create_dosen'>Add New dosen</a>";
 
     $tpl = new Template("templates/Index.template.html");
     $tpl->replace("SUB-JUDUL", $sub_judul);
