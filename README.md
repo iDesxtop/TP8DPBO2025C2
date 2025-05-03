@@ -38,6 +38,6 @@ Kita dapat mengupdate Data dengan mengklik tombol "Update" pada suatu baris. Ket
 Ketika kita tidak membutuhkan data suatu baris, kita dapat menghapusnya dengan tombol "Delete". Data akan terhapus dari database. 
 
 ## Video
-https://github.com/user-attachments/assets/76b632ff-609e-4af0-9e6b-c3b4c90cec70
+https://github.com/user-attachments/assets/76b632ff-609e-4af0-9e6b-c3b4c90cec70  
 https://drive.google.com/file/d/1GcKOxzt0lMIgx2I5dTNX3RmnNqQPP83K/view?usp=sharing  
 
